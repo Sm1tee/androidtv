@@ -1,37 +1,75 @@
-# 📺 Моя коллекция приложений для Android TV
+# 📺 Android TV Tools & Apps Collection
 
-Здесь собран список полезных приложений для Android TV и других медиа-устройств.
+Подборка полезных инструментов и приложений для Android TV и медиаприставок.  
+Все ссылки ведут на страницы с обсуждением и загрузкой на [4PDA](https://4pda.to/).
 
-## 🛠️ Инструменты и утилиты
+---
 
-- **[TvQuickActions](https://4pda.to/forum/index.php?showtopic=1036317)** - Настройка кнопок пульта для быстрого доступа к приложениям и действиям.
-- **[LauncherManager](https://4pda.to/forum/index.php?showtopic=1093337)** - Менеджер для установки и управления сторонними лаунчерами.
-- **[Файловый менеджер +](https://4pda.to/forum/index.php?showtopic=837960&st=7860)** - Простой и удобный файловый менеджер с расширенными возможностями.
-- **[Projectivy Launcher](https://4pda.to/forum/index.php?showtopic=1062307)** - Красивый и функциональный лаунчер с фокусом на медиа-контенте.
+## 🧰 Инструменты
 
-## 🎬 Просмотр медиаконтента
+- [**TvQuickActions**](https://4pda.to/forum/index.php?showtopic=1036317) — быстрые действия и меню на Android TV.  
+- [**LauncherManager**](https://4pda.to/forum/index.php?showtopic=1093337) — управление лаунчерами, выбор и закрепление главного.  
+- [**File Manager +**](https://4pda.to/forum/index.php?showtopic=837960&st=7860) — удобный файловый менеджер с сетевым доступом.  
+- [**Projectivy Launcher**](https://4pda.to/forum/index.php?showtopic=1062307) — современный и настраиваемый лаунчер для Android TV.
 
-### Фильмы и сериалы
-- **[Lampa](https://4pda.to/forum/index.php?showtopic=1084306)** / **[lampishe](https://lampishe.cc/)** - Популярный каталог фильмов и сериалов для онлайн-просмотра.
-- **[hdrezka](https://4pda.to/forum/index.php?showtopic=1028761)** - Неофициальный клиент для известного онлайн-кинотеатра.
-- **[zona](https://az1.zona.pub/)** - Каталог фильмов, сериалов и ТВ-каналов.
-- **[KinoTrend](https://4pda.to/forum/index.php?showtopic=955958)** / **[SerialTrend](https://4pda.to/forum/index.php?showtopic=1074256)** - Приложения для отслеживания и просмотра новинок кино и сериалов.
-- **[stremio](https://www.stremio.com/)** - Медиа-центр для организации и просмотра видеоконтента из разных источников.
-- **[TorrServe](https://4pda.to/forum/index.php?showtopic=889960)** - Просмотр видео с торрентов в реальном времени без скачивания.
+---
 
-### Телевидение
-- **[Televizo](https://4pda.to/forum/index.php?showtopic=943863)** - IPTV-плеер для просмотра телеканалов из ваших плейлистов.
+## 🧲 Torrent
 
-### YouTube
-- **[SmartTube (ex. SmartTubeNext)](https://4pda.to/forum/index.php?showtopic=1031453)** - Альтернативный клиент YouTube без рекламы и со спонсор-блоком.
+- [**TorrServe**](https://4pda.to/forum/index.php?showtopic=889960) — потоковое воспроизведение торрентов напрямую без предварительного скачивания.
 
-## ⚙️ Дополнительные утилиты
+---
 
-### Плееры
-- **[Vimu](https://4pda.to/forum/index.php?showtopic=777309)** - Всеядный и оптимизированный медиаплеер для ТВ-приставок.
-- **[Night Player](https://4pda.to/forum/index.php?showtopic=939795)** - Видеоплеер с удобным интерфейсом для просмотра на ТВ.
-- **[VLC](https://4pda.to/forum/index.php?showtopic=268247)** - Легендарный медиаплеер с открытым исходным кодом.
+## 🎬 Смотреть фильмы и сериалы
 
-### Прочее
-- **[YoWindow](https://4pda.to/forum/index.php?showtopic=566120)** - Красивый анимированный прогноз погоды.
-- **[ByeByeDPI](https://github.com/romanvht/ByeByeDPI)** - Утилита для обхода систем глубокой проверки пакетов (DPI).
+- [**Lampa**](https://4pda.to/forum/index.php?showtopic=1084306) — мощный медиахаб с поддержкой источников, торрентов и плагинов.  
+- [**Lampishe**](https://lampishe.cc/) — веб-версия Lampa.  
+- [**HDRezka**](https://4pda.to/forum/index.php?showtopic=1028761) — неофициальное приложение для просмотра с ресурса hdrezka.  
+- [**Zona**](https://az1.zona.pub/) — онлайн-кинотеатр с торрент-технологией.  
+- [**SerialTrend**](https://4pda.to/forum/index.php?showtopic=1074256) — приложение для сериалов и телешоу.  
+- [**KinoTrend**](https://4pda.to/forum/index.php?showtopic=955958) — популярный клиент для фильмов и сериалов.  
+- [**Stremio**](https://www.stremio.com/) — мультимедийный центр с поддержкой аддонов и синхронизации.
+
+---
+
+## 📡 Смотреть телевидение
+
+- [**Televizo**](https://4pda.to/forum/index.php?showtopic=943863) — IPTV-плеер с поддержкой m3u, xmltv и других форматов.
+
+---
+
+## 🌤 Погода
+
+- [**YoWindow**](https://4pda.to/forum/index.php?showtopic=566120) — красивое приложение прогноза погоды с анимацией и виджетами.
+
+---
+
+## 🕵️‍♂️ VPN и обход блокировок
+
+- [**ByeByeDPI**](https://github.com/romanvht/ByeByeDPI) — инструмент для обхода DPI-фильтрации (для Windows).
+
+---
+
+## ▶️ Видео (YouTube и др.)
+
+- [**SmartTube (ex. SmartTubeNext)**](https://4pda.to/forum/index.php?showtopic=1031453) — улучшенный YouTube-клиент для Android TV без рекламы.
+
+---
+
+## 🎥 Плееры
+
+- [**Vimu Media Player**](https://4pda.to/forum/index.php?showtopic=777309) — мощный плеер для локальных и сетевых видео.  
+- [**Night Player**](https://4pda.to/forum/index.php?showtopic=939795) — лёгкий медиаплеер с поддержкой субтитров.  
+- [**VLC**](https://4pda.to/forum/index.php?showtopic=268247) — универсальный кроссплатформенный плеер с поддержкой всех форматов.
+
+---
+
+### 💡 Полезно
+> Все ссылки на 4PDA могут требовать регистрацию для скачивания APK.  
+> Перед установкой рекомендуется проверять совместимость приложений с вашей версией Android TV.
+
+---
+
+### 📝 Автор
+Собрано вручную энтузиастом Android TV 💻  
+Если хотите добавить или обновить ссылку — создайте **Pull Request** или напишите в **Issues**.
